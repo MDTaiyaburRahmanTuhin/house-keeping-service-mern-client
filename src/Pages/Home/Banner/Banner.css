@@ -1,0 +1,31 @@
+.banner_text h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 41px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.banner_text h2 span {
+    color: #2cb7d7;
+}
+.banner_text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    color: #484040;
+}
+
+.banner_text button {
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    background: #2cb7d7;
+    color: white;
+    padding: 11px 33px;
+    border-radius: 3px;
+    transition: 0.5s ease-in-out;
+}
+
+
+.banner_text button:hover{
+    background-color: #2cb7d7;
+}
