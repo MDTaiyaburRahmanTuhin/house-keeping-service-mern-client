@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# House-keeping
+## Welcome to House-keeping
+Website link [https://house-keeping-service.web.app/]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## All About This Project
+The main picture we want to give in housekeeping project or application is that here we have housekeeper service. Housekeeping is required for different jobs from different houses. They can avail our service through this application and also carry various individual services like house cleaning house tidy house cleaning. Etc. 
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## technology used
+* React
+* React routh
+* Firebase Authentication
+* bootstrap
+* mongodb
+* heroku
+* React calendar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `Home Page`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+On the homepage we are usually talking about different services and what services and services we provide to the customer are given on this homepage and how to contact us if there is any problem or complaint we will show on the homepage.
 
-### `npm test`
+### `Services Page`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+On the service page we provide different location suggestions through filters and at the location where the customer wants to receive our service they can click on the filter at the end and show different services and they can order from there.
 
-### `npm run build`
+### `Service Detail & Booking page`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We got Facebooking, we can book a model with its location, its dateline, its name, its image and what services we can offer in the service.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `Login & Register page`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Through Firebase we will be able to register the user and sign in through Google and sign in via email address. Moreover, they will not be able to book any of our services. To book, they need to register or sign in to Google.
 
-### `npm run eject`
+### `Dasboard`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Through the dashboard we update the customer on what services the customer has and what the customer admin or their various services delete or edit and how they will receive these services through the dashboard.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `Carrier`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We remove user logos from our website through various categories. We do this through Database mongoDb and we will continue to work on their various advantages and disadvantages.
